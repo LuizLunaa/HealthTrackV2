@@ -32,7 +32,7 @@
 
 .sidebar .logo-details i {
     font-size: 30px;
-    color: rgb(208, 0, 0);
+    color: #d80000;
     height: 50px;
     min-width: 78px;
     text-align: center;
@@ -41,7 +41,7 @@
 
 .sidebar .logo-details .logo_name {
     font-size: 22px;
-    color: rgb(208, 0, 0);
+    color: #d80000;
     font-weight: 600;
     transition: 0.3s ease;
     transition-delay: 0.1s;
@@ -93,7 +93,7 @@
     min-width: 78px;
     text-align: center;
     line-height: 50px;
-    color: rgb(208, 0, 0);
+    color: #d80000;
     font-size: 20px;
     cursor: pointer;
     transition: all 0.3s ease;
@@ -116,7 +116,7 @@
 .sidebar .nav-links li a .link_name {
     font-size: 18px;
     font-weight: 400;
-    color: rgb(208, 0, 0);
+    color: #d80000;
     transition: all 0.4s ease;
 }
 
@@ -137,7 +137,7 @@
 }
 
 .sidebar .nav-links li .sub-menu a {
-    color: rgb(208, 0, 0);
+    color: #d80000;
     font-size: 15px;
     padding: 5px 0;
     white-space: nowrap;
@@ -233,7 +233,7 @@
 
 .sidebar .profile-details .profile_name,
 .sidebar .profile-details .job {
-    color: rgb(208, 0, 0);
+    color: #d80000;
     font-size: 18px;
     font-weight: 500;
     white-space: nowrap;
@@ -271,7 +271,7 @@
 
 .home-section .home-content .bx-menu,
 .home-section .home-content .text {
-    color: rgb(208, 0, 0);
+    color: #d80000;
     font-size: 35px;
 }
 
